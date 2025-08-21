@@ -5,6 +5,7 @@ Um projeto de shader GLSL que renderiza um padrão de círculos coloridos e anim
 Este é um projeto simples de shader GLSL para renderizar um padrão de círculos coloridos e animados usando a tecnologia WebGL. O código foi desenvolvido a partir de um tutorial do [The Book of Shaders](https://thebookofshaders.com/).
 
 ![Padrão de círculos coloridos](screenshot.png)
+<img width="983" height="471" alt="screenshot" src="https://github.com/user-attachments/assets/8f4db3fd-9f99-474e-86ba-34582acd305b" />
 
 ### Como Funciona
 
